@@ -4,6 +4,7 @@ function preload(){
 
 function setup() {
   createCanvas(windowWidth,windowHeight)
+  background("green");
   // put setup code here
 }
 
